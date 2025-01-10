@@ -6,7 +6,7 @@ client = OpenAI(
     api_key=os.environ.get("OPENAI_API_KEY"),
 )
 
-f = open("data.txt")
+f = open("content.org")
 content = f.read()
 f.close()
 
@@ -19,4 +19,6 @@ chat_completion = client.chat.completions.create(
     ],
     model="gpt-4o",
 )
-print(chat_completion.choices[0].message.content)
+
+with open("results.org", "w") as f:
+    f.write(chat_completion.choices[0].message.content)
