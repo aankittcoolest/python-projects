@@ -1,0 +1,668 @@
+{
+  "documentLayout": {
+    "blocks": [{
+      "blockId": "1",
+      "textBlock": {
+        "text": "〒000-0000",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "2",
+      "textBlock": {
+        "text": "請求書",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "3",
+      "textBlock": {
+        "text": "株式会社□□",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "4",
+      "textBlock": {
+        "text": "〒000-0000",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "5",
+      "textBlock": {
+        "text": "東京都港区芝浦2-2-22 ○○ビル 階",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "6",
+      "textBlock": {
+        "text": "東京都東京都港区芝浦1-1-11 ○○ビル 階",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "7",
+      "textBlock": {
+        "text": "株式会社○○ 御中",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "8",
+      "textBlock": {
+        "text": "下記をご請求申し上げます。",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "9",
+      "textBlock": {
+        "text": "お支払い期限",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "10",
+      "textBlock": {
+        "text": "TEL: 02-0000-0000",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "11",
+      "textBlock": {
+        "text": "登録番号",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "12",
+      "textBlock": {
+        "text": "T0123456",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "13",
+      "textBlock": {
+        "text": "請求書No",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "14",
+      "textBlock": {
+        "text": "請求日",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "15",
+      "textBlock": {
+        "text": "××年1月1日",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "16",
+      "textBlock": {
+        "text": "差し替えまたは削除してご利",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "17",
+      "textBlock": {
+        "text": "用ください",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "18",
+      "textBlock": {
+        "text": "ご請求金額",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "19",
+      "textBlock": {
+        "text": "¥4,360-",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "20",
+      "tableBlock": {
+        "bodyRows": [{
+          "cells": [{
+            "blocks": [{
+              "blockId": "21",
+              "textBlock": {
+                "text": "取引日",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "22",
+              "textBlock": {
+                "text": "軽減税率 対象 品目 単価",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "23",
+              "textBlock": {
+                "text": "数量",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "24",
+              "textBlock": {
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "25",
+              "textBlock": {
+                "text": "金額",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "26",
+              "textBlock": {
+                "text": "2023/1/1",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "27",
+              "textBlock": {
+                "text": "1,000 A ※",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "28",
+              "textBlock": {
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "29",
+              "textBlock": {
+                "text": "2",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "30",
+              "textBlock": {
+                "text": "2,000",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "31",
+              "textBlock": {
+                "text": "2023/1/2",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "32",
+              "textBlock": {
+                "text": "2,000 B",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "33",
+              "textBlock": {
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "34",
+              "textBlock": {
+                "text": "1",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "35",
+              "textBlock": {
+                "text": "2,000",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }]
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "36",
+      "tableBlock": {
+        "bodyRows": [{
+          "cells": [{
+            "blocks": [{
+              "blockId": "37",
+              "textBlock": {
+                "text": "10%対象",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "38",
+              "textBlock": {
+                "text": "対象額(税抜)",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "39",
+              "textBlock": {
+                "text": "¥2,000 消費税",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "40",
+              "textBlock": {
+                "text": "¥200",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "41",
+              "textBlock": {
+                "text": "8%対象(※)",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "42",
+              "textBlock": {
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "43",
+              "textBlock": {
+                "text": "¥2,000",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "44",
+              "textBlock": {
+                "text": "¥160",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }, {
+          "cells": [{
+            "blocks": [{
+              "blockId": "45",
+              "textBlock": {
+                "text": "小計",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "46",
+              "textBlock": {
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "47",
+              "textBlock": {
+                "text": "¥4,000",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }, {
+            "blocks": [{
+              "blockId": "48",
+              "textBlock": {
+                "text": "¥360",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 1,
+                "pageEnd": 1
+              }
+            }],
+            "rowSpan": 1,
+            "colSpan": 1
+          }]
+        }]
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "49",
+      "textBlock": {
+        "text": "「※」は軽減税率対象であることを示します。",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "50",
+      "textBlock": {
+        "text": "お振込手数料は御社ご負担にてお願い致します。",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "51",
+      "textBlock": {
+        "text": "口座種",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "52",
+      "textBlock": {
+        "text": "口座番号",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "53",
+      "textBlock": {
+        "text": "口座名義",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "54",
+      "textBlock": {
+        "text": "振込先",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "55",
+      "textBlock": {
+        "text": "○○銀行○○支店",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }]
+  }
+}
